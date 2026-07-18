@@ -18,6 +18,10 @@ FineBites has NO physical product yet, production has not started. Only digital 
 
 List both categories explicitly and separately for each script.
 
+## Video format
+
+All FineBites content is **9:16 vertical (1080x1920)**, on every platform (Instagram Reels, TikTok, YouTube Shorts are all native vertical, there are no exceptions). Every shot description must be written for a vertical frame: compose for portrait, keep key action/text centered so it survives a center-crop, and never describe or request a horizontal/landscape or square shot. When a shot description implies AI image or video generation, explicitly state the output must be vertical 9:16.
+
 ## Brand voice rules
 
 Apply strictly to every script you write:
