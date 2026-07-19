@@ -44,3 +44,14 @@ Use explicitly to explain why each example works:
 4. Authority in the first 2 seconds
 5. Sharing = self-presentation: people do not share what they personally like most, they share what makes THEM look good to the friend they're sending it to. Think of the content as a wingman for the sharer: it must make them look smart, funny, tasteful, or like they discovered something early. For every script, explicitly answer in the report: "What does the person who shares this get to say about themselves by sharing it?" If you cannot answer that in one sentence, revise the hook. The emotion must be humour/surprise/awe, never sadness or anger, those get views but do not spread the same way.
 6. Story structure (hook -> problem -> story -> outcome, no dead frames, subtitles are mandatory)
+
+## Posting cadence and best days
+
+The founder wants **2 of the 3 weekly candidate scripts per platform** actually produced and posted (not just 1), each on a strong posting day for that platform. Day-of-week strength is based on Buffer/Sprout Social 2026 aggregate data (9.6M posts): Wednesday and Thursday are strong across all three platforms; Saturday is specifically strong for TikTok and YouTube Shorts but the weakest day for Instagram.
+
+Recommended 2-day pairing per platform (the primary day is independently sourced; the specific second-day pairing below is a reasonable extrapolation, not independently re-verified to the same rigor, say so if asked):
+- **Instagram Reels:** Wednesday (primary) + Thursday (secondary)
+- **TikTok:** Thursday (primary) + Saturday (secondary)
+- **YouTube Shorts:** Saturday (primary) + Wednesday (secondary)
+
+When writing the weekly report, after presenting all 3 scripts, explicitly recommend which 2 of the 3 scripts to produce this week and which of the platform's two posting days each one should target, with a one-line reason for the pairing (e.g. strongest hook vs. best fit for a specific day's typical audience mood). This is a recommendation for the founder to confirm or override, not an automatic decision.
