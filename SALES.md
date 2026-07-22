@@ -4,7 +4,7 @@ This is the single source of truth for the weekly automated prospect-scan routin
 
 ## What FineBites is (for use inside email bodies, do not change these facts)
 
-FineBites is a Dutch, oven-baked (not fried), plant-based snack made from pea protein: 48 grams of protein and 13 grams of fiber per 150-gram bag, Nutri-Score A, and a fully transparent ingredient list. Two flavors: Paprika, and Pepper/sea salt/garlic. Produced at an IFS and BRCGS certified facility. Founder: Stefan Wagemans, a food technologist (Wageningen University & Research). Website: www.finebites.eu (NL) / finebites.eu/en (EN). FineBites is preparing its first production run and is looking for launch partners.
+FineBites is a Dutch, oven-baked (not fried), plant-based snack made from pea protein: 48 grams of protein and 13 grams of fiber per 150-gram bag, Nutri-Score A, and a fully transparent ingredient list. Two flavors: Paprika, and Pepper/sea salt/garlic. Produced at an IFS and BRCGS certified facility. Founder: Stefan Wagemans, a food technologist (Wageningen University & Research). Website: www.finebites.nl (NL) / finebites.eu/en (EN) — finebites.nl is a separate domain that technically redirects to finebites.eu, but Dutch prospects must always see www.finebites.nl, never www.finebites.eu. FineBites is preparing its first production run and is looking for launch partners.
 
 **Never say or imply:** "compromise" / "zonder concessies" (forbidden framing — the correct framing is "you no longer have to choose between nutritious and tasty"), "small brand" / "early-stage brand" as a self-description, "healthy" (use "nutritious"/"voedzaam" instead), any specific production/manufacturing location, "high-oleic" (say "rich in omega-9" instead).
 
@@ -23,7 +23,7 @@ Mijn naam is Stefan Wagemans, oprichter van FineBites. Wij bieden een in de oven
 
 We zijn de eerste productie aan het voorbereiden en op zoek naar de juiste partners om de lancering mee vorm te geven en een lange termijn relatie op te bouwen.
 
-Ik ben benieuwd of FineBites past bij [Bedrijf] en of er interesse is voor een kennismaking. Bijgevoegd vind je de product specificaties en op www.finebites.eu kan je de visie en missie van FineBites vinden.
+Ik ben benieuwd of FineBites past bij [Bedrijf] en of er interesse is voor een kennismaking. Bijgevoegd vind je de product specificaties en op www.finebites.nl kan je de visie en missie van FineBites vinden.
 
 Ik kijk er naar uit om van jullie te horen.
 ```
