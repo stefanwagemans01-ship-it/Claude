@@ -28,7 +28,7 @@ Ik ben benieuwd of FineBites past bij [Bedrijf] en of er interesse is voor een k
 Ik kijk er naar uit om van jullie te horen.
 ```
 
-(Do not add a closing/signature — that is added automatically by the mailbox-side script. Do not write "Met vriendelijke groet," or a name/phone/logo yourself.)
+(Do not add a closing/signature — Stefan reviews every draft and adds his own fixed signature by hand before sending. Do not write "Met vriendelijke groet," or a name/phone/logo yourself.)
 
 ### English version (for German/Belgian companies where Dutch is not appropriate — use business English, do not invent a German translation)
 
@@ -48,7 +48,7 @@ I've attached our product sheet with full nutritional values, ingredients and ce
 I am looking forward to hearing from you.
 ```
 
-(Signature added automatically, don't duplicate. Use "fiber" not "fibre". No Nutri-Score as the headline argument for markets that don't use it, mention it only as "in the EU".)
+(No signature — added by hand by Stefan after review, don't duplicate. Use "fiber" not "fibre". No Nutri-Score as the headline argument for markets that don't use it, mention it only as "in the EU".)
 
 ## The personalized hook — hard requirement, not optional
 
